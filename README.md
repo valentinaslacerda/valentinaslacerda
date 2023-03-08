@@ -1,4 +1,4 @@
-## Oiii eu sou Valentina Lacerda, sou programadora e estudo análise de dados!👋
+## Oiii eu sou Valentina Lacerda, sou programadora e estou atualmente estudando análise de dados!👋
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Valen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
